@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mellowzyn 👋
 
-<!--
-**Mellowzyn/Mellowzyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer focused on building practical tools, APIs, and automation.
 
-Here are some ideas to get you started:
+## 🐍 Core skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- FastAPI / Flask
+- REST APIs
+- Automation and scripting
+- Git and GitHub Actions
+
+## 🌱 Currently learning
+
+- Advanced Python design patterns
+- Cloud deployment
+- Testing and performance optimization
+- Building production-ready APIs
+
+## 🤝 Let's connect
+
+Open to Python development and automation projects.
